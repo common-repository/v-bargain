@@ -1,0 +1,25 @@
+*** Changelog ***
+
+2023-09-06 - version 4.0.0
+
+* Bargaining product chats details sorted with guest and registerd user
+
+* Bargaining product chats status availbale with success or failed
+
+* Date and time added in chat record
+
+* Over laping frontend fixed
+
+* Message responses in chat box fixed
+
+* Setting page colors and font family changeable
+
+* Individual discount conflict with global discount fixed
+
+* All tables of plugin will be delete on uninstallation of plugin feature added
+
+* Free trail added
+
+* Monthly payment added
+
+* Multi Theme Fixes
